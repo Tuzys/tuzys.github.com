@@ -1,0 +1,24 @@
+body{
+    background-color: FCF8E8;
+}
+
+section{
+    border: solid;
+    border-color: 94B49F;
+    background-color: 94B49F;
+    padding: 5em;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+.title{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sisu{
+    font-size: 18px;
+}
+
+.header{
+    font-size: 18px;
+}
